@@ -738,6 +738,6 @@
             <xsl:attribute name="facs"><xsl:value-of select="current()/@facs"/></xsl:attribute>
             <xsl:value-of select="current()" />
         </xsl:element>
-    </xsl:template>    
+    </xsl:template>   
 
 </xsl:stylesheet>
